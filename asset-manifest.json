@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ADigency-website/static/css/main.52bc675a.css",
+    "main.js": "/ADigency-website/static/js/main.36ae9237.js",
+    "static/media/remixicon.svg?t=1690730386070": "/ADigency-website/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/light-hero-bg.jpg": "/ADigency-website/static/media/light-hero-bg.c9bce72c69f86814eba4.jpg",
+    "static/media/remixicon.eot?t=1690730386070": "/ADigency-website/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/ADigency-website/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/ava-1.jpg": "/ADigency-website/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/ADigency-website/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/ava-2.jpg": "/ADigency-website/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/team-02.png": "/ADigency-website/static/media/team-02.04ead291f3a898cb5195.png",
+    "static/media/remixicon.woff?t=1690730386070": "/ADigency-website/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/team-03.png": "/ADigency-website/static/media/team-03.6890a8fee90cc064c74d.png",
+    "static/media/remixicon.woff2?t=1690730386070": "/ADigency-website/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/video.png": "/ADigency-website/static/media/video.738b5aed181ea69d0960.png",
+    "static/media/hero-img.png": "/ADigency-website/static/media/hero-img.d253c017c57be8422f18.png",
+    "static/media/team-01.png": "/ADigency-website/static/media/team-01.b05696393eabab46199e.png",
+    "static/media/article.png": "/ADigency-website/static/media/article.1a0e78634738b71d43ca.png",
+    "static/media/case-study.png": "/ADigency-website/static/media/case-study.e2b9562a6c09692e288e.png",
+    "static/media/slick.svg": "/ADigency-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ADigency-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ADigency-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ADigency-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ADigency-website/index.html",
+    "main.52bc675a.css.map": "/ADigency-website/static/css/main.52bc675a.css.map",
+    "main.36ae9237.js.map": "/ADigency-website/static/js/main.36ae9237.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52bc675a.css",
+    "static/js/main.36ae9237.js"
+  ]
+}
